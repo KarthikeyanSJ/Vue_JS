@@ -103,4 +103,4 @@ Nothing's ever perfect, but please let me know by creating an issue (make sure t
 
 # Looking for Vue / JavaScript or ASP.NET Consulting + Training + support?
 
-Contact me @ <herbat73@yahoo.com>, and let's talk about your projects needs!
+Contact me @ <karthikeyans.j@yahoo.com>, and let's talk about your projects needs!
